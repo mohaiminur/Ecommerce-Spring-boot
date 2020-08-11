@@ -24,7 +24,7 @@
 * Master/ Detail view of Products
 * Pagination support for products
 * Add products to shopping cart
-* Shopping cart check out
+* Shopping cart checkout
 
 
 ---
