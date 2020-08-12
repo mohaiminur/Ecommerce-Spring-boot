@@ -1,5 +1,5 @@
 # Ecommerce application-with-Spring-boot-and-angular-and-mysql
- Ecommerce application with spring boot, angular MySQL, Spring security Spring data JPA, Spring security, Lombok etc
+ Ecommerce application with spring boot, angular MySQL, Spring security Spring data JPA, Spring security, Lombok etc.In the backend I used spring boot restful api services and frontend i used angular with bootstarp and mySQL as database
 
 ---
 ## Using Tech:
